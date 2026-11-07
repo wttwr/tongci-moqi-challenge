@@ -1,0 +1,1 @@
+ALTER TABLE `rooms` ADD `spectators` text DEFAULT '[]' NOT NULL;

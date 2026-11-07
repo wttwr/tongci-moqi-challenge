@@ -1,0 +1,1 @@
+ALTER TABLE `rooms` ADD `start_mode` text DEFAULT 'topic' NOT NULL;
